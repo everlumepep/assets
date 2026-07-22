@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title desc">
+  <title id="title">Everlume Peptides</title>
+  <desc id="desc">A polished Everlume Peptides logo with a slim EL monogram and Elevate Renew Glow tagline.</desc>
+  <g transform="translate(240 18)">
+    <g fill="none" stroke="#9B7844" stroke-width="3.5">
+      <path d="M48 35h42M48 35v70M48 69h35M48 105h44"/>
+      <path d="M76 24v96h42"/>
+    </g>
+    <path d="M115 29l2.8 8.2 8.2 2.8-8.2 2.8-2.8 8.2-2.8-8.2-8.2-2.8 8.2-2.8z" fill="#C8A66A"/>
+  </g>
+  <text x="320" y="238" text-anchor="middle" fill="#33281F" font-family="Cormorant Garamond, Georgia, serif" font-size="72" font-weight="500" letter-spacing="15">EVERLUME</text>
+  <text x="320" y="292" text-anchor="middle" fill="#8F7045" font-family="Jost, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="13">PEPTIDES</text>
+  <line x1="160" y1="326" x2="480" y2="326" stroke="#CBB58F" stroke-width="1"/>
+  <text x="320" y="368" text-anchor="middle" fill="#796A59" font-family="Jost, Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="7">ELEVATE · RENEW · GLOW</text>
+</svg>
